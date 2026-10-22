@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 2: Modelado y control del sistema cardiovascular
+  mediante el modelo Windkessel de cuatro elementos
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Leonardo Zaid
+    family-names: Moreno Zavala
+    email: L24210590@tijuana.tecnm.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/LeonardoZaid/MSFP2'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Mecánica pulmonar
+  - Modelado de sistemas fisiológicos
+  - MATLAB
+  - Simulink
+  - Simscape Electrical
+  - Python
+  - Simulación in silico
+  - Instrumentación electrónica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-21'
